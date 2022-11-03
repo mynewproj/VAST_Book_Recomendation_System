@@ -77,4 +77,4 @@
 
 ## Figure 3: Recommended Books displays all the books which are recommended to the user using collaborative filtering. Hence this screen gives all the necessary details related to the recommended books.
 
-## Conclusion:We as a team have contributed to the open source project by giving an E-library like organizing methodology to a recommender system.Digital libraries provide the students with the convenience of learning at their own comfort.
+## Conclusion:Recommender systems are an extremely potent tool utilized to assist the selection process easier for users. The implemented book recommendation engine is a competent system to recommend Books for e-users. This recommender system will definitely be a great web application implemented in Python language. Such type of web application will be proved beneficial for today's high demanding online purchasing web sites.
